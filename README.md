@@ -29,17 +29,3 @@ I am seeking **Data Scientist**, **Research Scientist** or **Machine Learning En
 
 ---
 
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1> Zheng, Sijie</h1>
-      <p><b>Phd</b></p>
-      <p><b>Getting started with machine learning and deep learning</b></p>
-      <p><b>Feel free to connect me!</b></p>
-    </td>
-    <td width="25%">
-      <img src="/photo.jpg" width="100%">      
-    </td>
-  </tr>
-</table>
